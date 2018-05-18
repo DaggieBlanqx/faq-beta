@@ -23,17 +23,18 @@ License : https://github.com/mayeedwin/faq-beta/blob/master/LICENSE
         <br>
         <h3>Frequently asked questions ( FAQs )</h3>
         <br>
-        <p class="faqbeta_accordion">Q1. How can I Join GDG Eldoret?</p>
-        <div class="faqbeta_panel">Join our GDG Community <a href="https://www.meetup.com/GDG-Moi-University">Here</a> to become an official member.</div>
+        <p class="faqbeta_accordion">Your Question</p>
+   <div class="faqbeta_panel">Your Answer</div>
+   
+        <p class="faqbeta_accordion">Your Question</p>
+   <div class="faqbeta_panel">Your Answer</div>
 
-        <p class="faqbeta_accordion">Q2. Must I be from Eldoret?</p>
-        <div class="faqbeta_panel">Nop! Our GDG is pen for all! You are required to attend our events as frequent as you can.</div>
-
-        <p class="faqbeta_accordion">Q3. Do we have any subscription fee?</p>
-        <div class="faqbeta_panel">Nop! We do not collect any subscription fee whatsover.</div>
-
-        <p class="faqbeta_accordion">Q4. Where do I register for events early?</p>
-        <div class="faqbeta_panel">Join our GDG Community <a href="https://www.meetup.com/GDG-Moi-University">Here</a> to be the first to know when RSVPs are open.</div>
+       <p class="faqbeta_accordion">Your Question</p>
+   <div class="faqbeta_panel">Your Answer</div>
+   
+        <p class="faqbeta_accordion">Your Question</p>
+   <div class="faqbeta_panel">Your Answer</div>
+   
        </div>
     <br>
 </section>
