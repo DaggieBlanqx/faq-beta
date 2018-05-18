@@ -26,6 +26,7 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
 ### styling faq-beta
+Here you may configure the **faq-beta.css** file to fit your website's or web app's theme colors.
 >style the element that is used to open and close the faqbeta_accordion class
 
 ```css
