@@ -84,7 +84,7 @@ div.faqbeta_panel {
 ```
 
 ### what's next?
-To make it more exciting, the next version of project **faq-beta** will incoporate a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**
+To make it more exciting, the next version of project **faq-beta** will have a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**
 ### demo apps
 | Progressive Web App | Web App Link |
 | --- | --- |
