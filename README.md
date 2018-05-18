@@ -13,4 +13,4 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 ```
 2. Copy the edited **html5** section in **faq-beta.html** to wherever you want it to appear in your page;
 
-3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files as shown in the example below.
+3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
