@@ -26,7 +26,7 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
 ### styling faq-beta
->Style the element that is used to open and close the faqbeta_accordion class
+>style the element that is used to open and close the faqbeta_accordion class
 
 ```css
 
@@ -41,6 +41,43 @@ p.faqbeta_accordion {
     outline: none;
     transition: 0.4s;
     margin-bottom: 10px;
+}
+
+```
+>add a background color to the faqbeta_accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover)
+
+```css
+
+p.faqbeta_accordion.active,
+p.faqbeta_accordion:hover {
+    background-color: #ddd;
+}
+
+```
+>style the element that is used for the faqbeta_panel class
+
+```css
+
+div.faqbeta_panel {
+    padding: 0 18px;
+    background-color: #fbfbfb;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.4s ease-in-out;
+    opacity: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 700px;
+}
+
+```
+>style the main faq-beta section
+
+```css
+
+#gdg-faqs {
+    padding: 10px;
+    background-color: #fbfbfb;
 }
 
 ```
