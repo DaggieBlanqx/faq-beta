@@ -4,13 +4,9 @@ Build an amazing and exciting **FAQ Section or Page** - FAQs (Frequently Asked Q
  ![](https://github.com/mayeedwin/faq-beta/blob/master/src/faq-beta-screenshot.png)
  
 ### Features
-1. Very responsive.
+1. Very responsive.  2. Easy to configure.
 
-2. Easy to configure.
-
-3. Sleeky apperance.
-
-4. Always upto-date.
+3. Sleeky appearance. 4. Always upto-date.
 
 ### setting up
 faq-beta is built with **javascript**, **html5** and **css**. You need atleast an intermediate background in all of these languages to get started even though anyone with or without skills in the same can set up with the guide provided.
