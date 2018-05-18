@@ -39,7 +39,7 @@ To make it more exciting, the next version of project **faq-beta** will incopora
 ### license
 | License |License url |
 | --- | --- |
-| MIT License | [View License](https://github.com/mayeedwin/pwafire/blob/master/LICENSE) |
+| Apache License 2.0 | [View License](https://github.com/mayeedwin/pwafire/blob/master/LICENSE) |
 ### support us 
 Donate a star, like, follow and contribute in any way. Be sure to use **Project faq-beta**. If you use [faq-beta](https://pwafire.org/developer), kindly let us know via **info@pwafire.org** | **mayedwine1@gmail.com** or JUST simply [Tweet us](https://twitter.com/pwafire).
 
