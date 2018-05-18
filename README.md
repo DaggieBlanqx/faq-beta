@@ -89,7 +89,7 @@ To make it more exciting, the next version of project **faq-beta** will have a *
 | Progressive Web App | Web App Link |
 | --- | --- |
 | GDG Eldoret | [View Now](https://gdgmoi.com/directory) |
-### join the conversation 
+### [join the conversation](https://twitter.com/pwafire)
 | Communication Channel | Talk to us |
 | --- | --- |
 | Live Twitter Chat | [Tweet us](https://twitter.com/pwafire) |
