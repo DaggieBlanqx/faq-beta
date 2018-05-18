@@ -3,7 +3,7 @@ Build an amazing and exciting **FAQ Section or Page** - FAQs (Frequently Asked Q
 
  ![](https://github.com/mayeedwin/faq-beta/blob/master/src/faq-beta-screenshot.png)
  
-### Features
+### features
 
 1. Very responsive.   
 
@@ -27,7 +27,18 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
 ### What's next?
 To make it more exciting, the next version of project **faq-beta** will incoporate a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**
-### Demo Apps
+### demo apps
 | Progressive Web App | Web App Link |
 | --- | --- |
 | GDG Eldoret | [View Now](https://gdgmoi.com/directory) |
+### join the conversation 
+| Communication Channel | Talk to us |
+| --- | --- |
+| Live Twitter Chat | [Tweet us](https://twitter.com/pwafire) |
+| Slack Workspace | [Join Workspace](http://bit.ly/2oPNK7S) |
+### license
+| MIT License | [View License](https://github.com/mayeedwin/pwafire/blob/master/LICENSE) |
+### support us 
+Donate a star, like, follow and contribute in any way. Be sure to use **Project faq-beta**. If you use [faq-beta](https://pwafire.org/developer), kindly let us know via **info@pwafire.org** | **mayedwine1@gmail.com** or JUST simply [Tweet us](https://twitter.com/pwafire).
+
+
