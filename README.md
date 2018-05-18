@@ -85,7 +85,7 @@ div.faqbeta_panel {
 
 ### what's next?
 To make it more exciting, the next version of project **faq-beta** will have a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**.
-### demo apps
+### [demo apps](https://gdgmoi.com/directory/)
 | Progressive Web App | Web App Link |
 | --- | --- |
 | GDG Eldoret | [View Now](https://gdgmoi.com/directory) |
