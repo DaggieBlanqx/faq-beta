@@ -11,33 +11,6 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
    <div class="faqbeta_panel">Your Answer</div>
 
 ```
-2. Copy the edited **html5** section in **faq-beta.html** to wherever you want it to appear in your page as shown below;
-```html
+2. Copy the edited **html5** section in **faq-beta.html** to wherever you want it to appear in your page;
 
-   <!--
-Author : Maye Edwin : https://maye.gdgmoi.com hosted by : https://www.pwafire.org
-License : https://github.com/mayeedwin/faq-beta/blob/master/LICENSE
--->
-<section id="gdg-faqs">
-    <div align="center">
-   
-        <br><h3>Frequently asked questions ( FAQs )</h3><br>
- 
-        <p class="faqbeta_accordion">Your Question</p>
-   <div class="faqbeta_panel">Your Answer</div>
-   
-        <p class="faqbeta_accordion">Your Question</p>
-   <div class="faqbeta_panel">Your Answer</div>
-
-       <p class="faqbeta_accordion">Your Question</p>
-   <div class="faqbeta_panel">Your Answer</div>
-   
-        <p class="faqbeta_accordion">Your Question</p>
-   <div class="faqbeta_panel">Your Answer</div>
-   
-       </div>
-    <br>
-</section>
-
-```
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files as shown in the example below.
