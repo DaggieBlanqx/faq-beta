@@ -25,6 +25,26 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 2. Copy the edited **html5** section in **faq-beta.html** to wherever you want it to appear in your page;
 
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
+### styling faq-beta
+>Style the element that is used to open and close the faqbeta_accordion class
+
+```css
+
+p.faqbeta_accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 700px;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 10px;
+}
+
+```
+
 ### What's next?
 To make it more exciting, the next version of project **faq-beta** will incoporate a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**
 ### demo apps
