@@ -3,6 +3,15 @@ Build an amazing and exciting **FAQ Section or Page** - FAQs (Frequently Asked Q
 
  ![](https://github.com/mayeedwin/faq-beta/blob/master/src/faq-beta-screenshot.png)
  
+### Features
+1. Very responsive.
+
+2. Easy to configure.
+
+3. Sleeky apperance.
+
+4. Always upto-date.
+
 ### setting up
 faq-beta is built with **javascript**, **html5** and **css**. You need atleast an intermediate background in all of these languages to get started even though anyone with or without skills in the same can set up with the guide provided.
 ### getting started
@@ -19,7 +28,7 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 3. If you do not have a **src** folder, just link up your page to the **faq-beta.js** and **faq-beta.css** files.
 ### What's next?
 To make it more exciting, the next version of project **faq-beta** will incoporate a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**
-### View Progressive Web Apps with Project faq-beta
+### Demo Apps
 | Progressive Web App | Web App Link |
 | --- | --- |
 | GDG Eldoret | [View Now](https://gdgmoi.com/directory) |
