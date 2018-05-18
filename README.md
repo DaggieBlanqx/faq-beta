@@ -20,9 +20,9 @@ License : https://github.com/mayeedwin/faq-beta/blob/master/LICENSE
 -->
 <section id="gdg-faqs">
     <div align="center">
-        <br>
-        <h3>Frequently asked questions ( FAQs )</h3>
-        <br>
+   
+        <br><h3>Frequently asked questions ( FAQs )</h3><br>
+ 
         <p class="faqbeta_accordion">Your Question</p>
    <div class="faqbeta_panel">Your Answer</div>
    
