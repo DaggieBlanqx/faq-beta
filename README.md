@@ -6,7 +6,7 @@ faq-beta is built with **javascript**, **html5** and **css**. You need atleast a
 1. Download **faq-beta** into your project's **root folder**. Edit the **faq-beta.html** section's questions and answers to fit your project's or company's needs. Check the code below;
 ```html
 
-   <h3>Your ( FAQs ) header</h3><br>
+   <h3>Your ( FAQs ) Header</h3><br>
    <p class="faqbeta_accordion">Your Question</p>
    <div class="faqbeta_panel">Your Answer</div>
 
