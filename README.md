@@ -37,6 +37,7 @@ To make it more exciting, the next version of project **faq-beta** will incopora
 | Live Twitter Chat | [Tweet us](https://twitter.com/pwafire) |
 | Slack Workspace | [Join Workspace](http://bit.ly/2oPNK7S) |
 ### license
+| License |License url |
 | --- | --- |
 | MIT License | [View License](https://github.com/mayeedwin/pwafire/blob/master/LICENSE) |
 ### support us 
