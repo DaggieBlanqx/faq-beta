@@ -11,6 +11,10 @@ Build an amazing and exciting **FAQ Section or Page** - FAQs (Frequently Asked Q
 
 3. Sleeky appearance.
 
+4. [Firebase add-on.](https://github.com/mayeedwin/faq-beta/tree/master/for-firebase)
+
+If you use firebase in your **web app** or would want to **integrate**, then use the **firebase congiguration** in the **for-firebase** folder to set up your **faq-beta** section. To add more questions, configure as directed here and update the firebase data in the [database file here](https://github.com/mayeedwin/faq-beta/blob/master/for-firebase/data/faqbetadb.json). When done, enjoy!
+
 ### setting up
 faq-beta is built with **javascript**, **html5** and **css**. You need atleast an intermediate background in all of these languages to get started even though anyone with or without skills in the same can set up with the guide provided.
 ### getting started
