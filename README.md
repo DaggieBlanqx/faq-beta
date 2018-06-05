@@ -84,7 +84,7 @@ div.faqbeta_panel {
 }
 
 ```
-### for-firebase configuration
+### [for-firebase configuration](https://github.com/mayeedwin/faq-beta/tree/master/for-firebase)
 If you use firebase in your **web app** or would want to **integrate**, then use the [firebase config file](https://github.com/mayeedwin/faq-beta/blob/master/for-firebase/firebase-config.js) in the **for-firebase** [folder](https://github.com/mayeedwin/faq-beta/tree/master/for-firebase) to set up your **faq-beta** section. To add more questions, configure as [directed here](https://github.com/mayeedwin/faq-beta/blob/master/for-firebase/faq-beta.html) and update the firebase data in the [database file here](https://github.com/mayeedwin/faq-beta/blob/master/for-firebase/data/faqbetadb.json). When done, enjoy!
 ### what's next?
 To make it more exciting, the next version of project **faq-beta** will have a **json** file that will alow you to just configure **faq-beta** by filling in your questions and answers without the need of editing **faq-beta.html**.
