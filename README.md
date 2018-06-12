@@ -1,4 +1,4 @@
-### [faq-beta](https://pwafire.org/developer/faq-beta/)
+### [faq-beta](https://pwafire.org/developer/docs/faq-beta/)
 Build an amazing and exciting **FAQ Section or Page** - FAQs (Frequently Asked Questions) with Project [faq-beta](https://pwafire.org/developer/faq-beta/)
 
  ![https://pwafire.org/developer/faq-beta/](https://github.com/mayeedwin/faq-beta/blob/master/src/faq-beta-screenshot.png)
